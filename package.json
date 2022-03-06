@@ -1,0 +1,25 @@
+{
+  "name": "berry-with-gpsmap",
+  "version": "1.0.0",
+  "description": "locatioin data system",
+  "main": "server.js",
+  "scripts": {
+    "test": "OLLA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ra0ul/BERRY-with-GPSmap.git"
+  },
+  "keywords": [
+    "GPS",
+    "raspberrypi",
+    "PCB",
+    "WEB"
+  ],
+  "author": "Ra0ul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ra0ul/BERRY-with-GPSmap/issues"
+  },
+  "homepage": "https://github.com/Ra0ul/BERRY-with-GPSmap#readme"
+}
